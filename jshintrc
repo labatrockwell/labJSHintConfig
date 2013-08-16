@@ -1,4 +1,15 @@
 {
 	"undef":true,
-	"unused":true
+	"unused":"vars",
+	"curly":true,
+	"latedef":"nofunc",
+	"newcap":true,
+	"quotmark":true,
+	"trailing":true,
+	"evil":true,
+	"multistr":true,
+	"smarttabs":true,
+	"sub":true,
+	"supernew":true,
+	"laxcomma":true
 }
